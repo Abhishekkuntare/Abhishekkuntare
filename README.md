@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kuntare</h1>
 <h3 align="center">I am passionate about becoming a proficient MERN stack developer.</h3>
 <img src="https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" alt="head" >
+<img src="https://raw.githubusercontent.com/ashuna-dev/ashuna-dev/main/github-readme-gif.gif" alt="head" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkuntare&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkuntare" /> </p>
 
