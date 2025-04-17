@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhishekkuntare" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekkuntare?logo=twitter&style=for-the-badge" alt="abhishekkuntare" /></a> </p>
 
-- 🔭 I’m currently working on [Dream-Sketch-AI]([https://dream-sketch-ai.vercel.app/])
+- 🔭 I’m currently working on [Dream-Sketch-AI](https://dream-sketch-ai.vercel.app/)
 
 - 🌱 I’m currently learning **AI Tech Stack**
 
