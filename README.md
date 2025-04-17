@@ -1,6 +1,6 @@
 ![MasterHead](https://images.unsplash.com/photo-1605379399843-5870eea9b74e?q=80&w=1798&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <h1 align="center">Hi 👋, I'm Abhishek Kuntare</h1>
-<h3 align="center">I am passionate about becoming a proficient MERN stack developer.</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer in the making | Dreaming in Code & Building the Future 💻</h3>
 <img src="https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" alt="head" >
 <img src="https://raw.githubusercontent.com/ashuna-dev/ashuna-dev/main/github-readme-gif.gif" alt="head" >
 
@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/abhishekkuntare" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekkuntare?logo=twitter&style=for-the-badge" alt="abhishekkuntare" /></a> </p>
 
-- 🔭 I’m currently working on [MadeByMe](https://madebyme.vercel.app/)
+- 🔭 I’m currently working on [Dream-Sketch-AI]([https://madebyme.vercel.app/](https://dream-sketch-ai.vercel.app/))
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **AI Tech Stack**
 
 - 👨‍💻 All of my projects are available at [https://abhishekkuntare.netlify.app/](https://abhishekkuntare.netlify.app/)
 
 - 📝 I regularly write articles on [https://abhishekkuntare0210.vercel.app/posts](https://abhishekkuntare0210.vercel.app/posts)
 
-- 💬 Ask me about **React,Node,Express,MongoDB**
+- 💬 Ask me about **React,Node,Express,MongoDB,Python,Flask**
 
 - 📫 How to reach me **abhishekkuntare7@gmail.com**
 
