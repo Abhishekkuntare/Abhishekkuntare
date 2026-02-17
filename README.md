@@ -1,4 +1,4 @@
-![MasterHead]
+
 <h1 align="center">Hi 👋, I'm Abhishek Kuntare</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer in the making | Dreaming in Code & Building the Future 💻</h3>
 <!-- <img src="https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" alt="head" > -->
