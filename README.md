@@ -63,6 +63,7 @@ The project includes:
 * 🔗 Frontend/backend API integration
 * 📱 Responsive user experience
 
+🔗 **Project:** https://amba-motors-ten.vercel.app/
 ---
 
 ## 🚀 Featured Projects
@@ -81,7 +82,7 @@ The project includes:
 * 🧠 RAG and vector-search based workflows
 * ⚡ Reusable components and optimized user flows
 
-🔗 **Project:** https://dream-sketch-ai.vercel.app/
+🔗 **Project:** https://krishi-mitra-ai-three.vercel.app/
 
 ---
 
