@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://abhishekkuntare.netlify.app/">
+  <a href="https://abhishek-os-seven.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-kuntare-65662421b/">
