@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Abhishek Kuntare
 
-### Software Developer · Full-Stack Engineer · AI Builder
-
-I build modern web applications, developer tools, desktop experiences, and AI-powered products. I enjoy turning ambitious ideas into polished, production-ready software.
+### 🚀 Software Developer | Full-Stack Engineer | AI Enthusiast
 
 <p align="center">
   <a href="https://abhishek-os-seven.vercel.app/">
@@ -20,150 +18,149 @@ I build modern web applications, developer tools, desktop experiences, and AI-po
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ashuna-dev/ashuna-dev/main/github-readme-gif.gif" alt="Animated developer GIF" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkuntare&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🚀 What I'm Building Right Now
+## 👨‍💻 About Me
+
+I'm a **Software Developer with 2+ years of professional experience**, building modern web applications, interactive user interfaces, desktop experiences, and AI-powered products.
+
+- 💻 Building with **React.js, Next.js, TypeScript, and Node.js**.
+- ⚙️ Developing full-stack applications and REST API integrations.
+- 🤖 Exploring Generative AI, LLM APIs, RAG, embeddings, and vector search.
+- 🖥️ Currently building **ARLO OS**, a modern desktop experience for Windows.
+- ✨ Passionate about polished UI/UX, animations, performance, and usability.
+- 🚀 Turning ideas into real-world applications.
+
+> I don't just write code — I build products that solve problems.
+
+---
+
+## 🔭 Currently Building: ARLO OS
 
 ### 🖥️ ARLO OS — A Modern Desktop Experience
 
-**My primary project is ARLO OS, an ambitious desktop environment designed to bring a beautiful, interactive, and AI-powered experience to Windows.**
+My primary project is **ARLO OS**, an Electron-based desktop environment focused on modern design, interactive experiences, customization, and AI-powered workflows.
 
 <p align="center">
   <a href="https://abhishek-operating-system.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Explore-ARLO_OS_Website-6366F1?style=for-the-badge" alt="Explore ARLO OS"/>
+    <img src="https://img.shields.io/badge/🌐_Explore-ARLO_OS_Website-6366F1?style=for-the-badge" alt="ARLO OS Website"/>
   </a>
   <a href="https://github.com/Abhishekkuntare/arlo-os">
-    <img src="https://img.shields.io/badge/💻_View-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="ARLO OS Repository"/>
+    <img src="https://img.shields.io/badge/💻_View-ARLO_OS_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="ARLO OS GitHub"/>
   </a>
 </p>
 
-**Core technologies:** `Electron` `React` `TypeScript` `JavaScript` `CSS` `AI APIs`
+**Tech Stack:** `Electron` `React` `TypeScript` `JavaScript` `CSS` `AI APIs`
 
-**What I'm working on:**
+**Highlights:**
 
-- 🖥️ A macOS-inspired desktop experience for Windows.
-- ✨ Modern glassmorphism, polished interfaces, and smooth animations.
-- 🪟 Interactive windows, desktop icons, Dock, workspaces, and multitasking.
-- 🤖 **Ghost AI** — an AI assistant designed to make desktop workflows more useful.
-- 🎨 Customization, themes, desktop widgets, and interactive UI components.
-- ⚡ Responsive interactions, performance improvements, and application stability.
-- 📦 Windows application packaging and distribution.
+- 🪟 Interactive desktop, windows, and multitasking experiences.
+- 🎨 Modern glassmorphism, themes, and desktop customization.
+- ⚡ Dock, widgets, workspaces, and interactive UI components.
+- 🤖 **Ghost AI** — an AI assistant for useful desktop workflows.
+- ✨ Smooth animations, transitions, and polished interactions.
+- 📦 Windows desktop application packaging and distribution.
 
-My goal is to combine thoughtful design, practical functionality, and AI into a desktop experience that feels intuitive and enjoyable to use.
-
-> Building ARLO OS is my journey in exploring desktop software engineering, product design, AI integration, and the complete development lifecycle.
+My goal is to combine beautiful design, practical desktop functionality, and AI into one cohesive experience.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Featured Projects
 
-- 💻 Software Developer with **2+ years of professional experience**.
-- ⚛️ Focused on React.js, Next.js, TypeScript, and modern frontend engineering.
-- 🔧 Experienced in building full-stack applications and integrating REST APIs.
-- 🤖 Exploring generative AI, LLM integrations, RAG, embeddings, and vector search.
-- 🖥️ Building ARLO OS with Electron, React, TypeScript, and AI capabilities.
-- 🚀 Interested in application performance, scalable architecture, and exceptional UI/UX.
-- 🌱 Continuously learning by building real-world products and experimenting with new technologies.
+### 🖥️ 1. ARLO OS
 
-**My philosophy:** Great software combines engineering, design, performance, and a clear purpose.
+**A modern desktop environment for Windows.**
 
----
+- Interactive desktop UI and application windows.
+- Dock, widgets, workspaces, and customization.
+- Ghost AI assistant and AI-powered workflow concepts.
+- Electron-based desktop application engineering.
 
-## 🌟 Featured Projects
-
-### 1. 🖥️ ARLO OS
-
-**An AI-focused desktop environment for Windows.**
-
-- Desktop-style UI and interactive application windows.
-- Dock, desktop customization, themes, and multitasking.
-- Ghost AI assistant concept and AI-powered workflows.
-- Electron-based desktop application development.
-- Focus on animations, usability, and polished visual design.
-
-**Tech:** `Electron` `React` `TypeScript` `JavaScript` `CSS` `AI APIs`
+`Electron` `React` `TypeScript` `JavaScript` `AI APIs`
 
 🔗 [Website](https://abhishek-operating-system.netlify.app/) · [GitHub Repository](https://github.com/Abhishekkuntare/arlo-os)
 
-### 2. 🌾 KrishiMitra AI
+### 🌾 2. KrishiMitra AI
 
-**An AI-powered agricultural assistance platform designed to support farmers.**
+**An AI-powered agricultural assistance platform.**
 
 - AI-assisted crop recommendations.
-- Crop disease assistance using image-based workflows.
+- Image-based crop disease assistance.
 - Voice interaction and location-aware features.
-- Support for Indian agricultural use cases and regional languages.
-- AI integrations for more accessible agricultural guidance.
+- Agricultural assistance designed for Indian use cases.
 
-**Tech:** `Next.js` `React` `TypeScript` `Python` `OpenAI API` `Tailwind CSS`
+`Next.js` `React` `TypeScript` `Python` `OpenAI API` `Tailwind CSS`
 
 🔗 [Live Project](https://krishi-mitra-ai-three.vercel.app/)
 
-### 3. 🚗 Amba Motors Garage
+### 🚗 3. Amba Motors Garage
 
-**A modern digital platform for an automotive garage business.**
+**A digital platform for an automotive garage business.**
 
-- Responsive frontend for desktop and mobile users.
+- Responsive frontend for desktop and mobile.
 - Full-stack application architecture.
-- REST API integration between frontend and backend.
-- MongoDB-based data management.
-- Cloudinary integration for image and media management.
+- REST API integration and data management.
+- Cloudinary image and media integration.
 - Authentication and business-focused functionality.
 
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `Cloudinary`
+`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `Cloudinary`
 
 🔗 [Live Project](https://amba-motors-ten.vercel.app/)
 
-### 4. ⌨️ Clacko
+### ⌨️ 4. Clacko
 
 **A modern typing speed and accuracy platform.**
 
-- Real-time words-per-minute tracking.
-- Typing accuracy and error tracking.
+- Real-time WPM tracking.
+- Accuracy and error tracking.
 - Multiple typing tests and timer modes.
 - Custom themes and typing animations.
-- Particle effects and interactive user interface.
-- Keyboard-first experience with responsive layouts.
+- Particle effects and responsive UI.
+- Keyboard-first user experience.
 
-**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Lucide React`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Lucide React`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,mysql" alt="JavaScript, TypeScript, Python, C++, MySQL"/>
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,sass,tailwind,bootstrap" alt="Frontend technologies"/>
 </p>
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" alt="Backend technologies"/>
 </p>
 
-- RESTful API development and integration
+- REST API development and integration
 - Frontend/backend communication
 - Authentication and application architecture
 - Third-party API integration
 
-### Databases & Cloud
+### 🗄️ Databases & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel,netlify" alt="Databases and cloud platforms"/>
 </p>
 
-### AI & Integrations
+### 🤖 AI & Integrations
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
@@ -171,13 +168,12 @@ My goal is to combine thoughtful design, practical functionality, and AI into a 
   <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-- LLM API integration
-- Generative AI applications
-- Retrieval-Augmented Generation (RAG)
-- Embeddings and vector search fundamentals
-- AI-powered workflows and automation
+- Generative AI and LLM API integration
+- RAG and embeddings fundamentals
+- Vector search
+- AI-powered applications and automation
 
-### Desktop Development
+### 🖥️ Desktop Development
 
 <p>
   <img src="https://img.shields.io/badge/Electron-Desktop_Apps-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
@@ -185,10 +181,10 @@ My goal is to combine thoughtful design, practical functionality, and AI into a 
   <img src="https://img.shields.io/badge/TypeScript-Type_Safety-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-### Developer Tools
+### 🔧 Tools & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,npm" alt="Developer tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,npm" alt="Git, GitHub, VS Code, Postman, Vite, npm"/>
 </p>
 
 ---
@@ -200,8 +196,8 @@ My goal is to combine thoughtful design, practical functionality, and AI into a 
 **June 2024 – Present | Bengaluru, India**
 
 - Developed reusable React.js and Redux components for Stories, Banners, and Video Gallery features.
-- Improved application performance through lazy loading and API bottleneck reduction.
-- Achieved 40%+ faster page loads through frontend optimization.
+- Improved application performance by addressing API bottlenecks and implementing lazy loading.
+- Achieved **40%+ faster page loads** through frontend optimization.
 - Integrated Shopify backend services with custom frontend applications using REST APIs.
 - Built responsive interfaces using JavaScript and SCSS.
 
@@ -219,14 +215,14 @@ My goal is to combine thoughtful design, practical functionality, and AI into a 
 
 - Developed component-based interfaces using React.js and Redux.
 - Implemented global state management.
-- Improved application usability and frontend performance.
+- Improved frontend usability and application performance.
 
 ---
 
-## 🧠 Currently Exploring
+## 🧠 Currently Learning
 
 ```text
-Modern Software Engineering
+Software Engineering
 ├── Frontend Architecture
 │   ├── React & Next.js
 │   ├── TypeScript
@@ -234,14 +230,14 @@ Modern Software Engineering
 ├── Full-Stack Development
 │   ├── Node.js & Express
 │   ├── REST APIs
-│   └── Databases
+│   └── Database Design
 ├── AI Engineering
 │   ├── LLM Integrations
 │   ├── RAG & Embeddings
 │   └── AI Agents & Automation
-└── Desktop Development
+└── Desktop Engineering
     ├── Electron
-    ├── OS-style UI & Interactions
+    ├── Desktop UI & Interactions
     └── ARLO OS & Ghost AI
 ```
 
@@ -264,7 +260,7 @@ Modern Software Engineering
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://abhishek-os-seven.vercel.app/">
@@ -274,7 +270,7 @@ Modern Software Engineering
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abhishekkuntare7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Abhishekkuntare">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -293,9 +289,9 @@ Modern Software Engineering
 ---
 
 <p align="center">
-  <b>💡 Think. Build. Experiment. Improve.</b>
+  <b>☕ Build. Learn. Break. Fix. Repeat. 🚀</b>
 </p>
 
 <p align="center">
-  Building useful software, exploring new ideas, and turning concepts into real products — one commit at a time. 🚀
+  Turning ideas into applications, one commit at a time.
 </p>
