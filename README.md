@@ -1,195 +1,194 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kuntare</h1>
+# 👋 Hi, I'm Abhishek Kuntare
 
-<h3 align="center">
-🚀 Software Developer | Full-Stack Developer | AI Enthusiast
-</h3>
+### Software Developer · Full-Stack Engineer · AI Builder
+
+I build modern web applications, developer tools, desktop experiences, and AI-powered products. I enjoy turning ambitious ideas into polished, production-ready software.
 
 <p align="center">
   <a href="https://abhishek-os-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Abhishekkuntare">
+    <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/abhishek-kuntare-65662421b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abhishekkuntare7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashuna-dev/ashuna-dev/main/github-readme-gif.gif" alt="Developer animation" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekkuntare&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Profile Views"/>
 </p>
 
+---
+
+## 🚀 What I'm Building Right Now
+
+### 🖥️ ARLO OS — A Modern Desktop Experience
+
+**My primary project is ARLO OS, an ambitious desktop environment designed to bring a beautiful, interactive, and AI-powered experience to Windows.**
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekkuntare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://abhishek-operating-system.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Explore-ARLO_OS_Website-6366F1?style=for-the-badge" alt="Explore ARLO OS"/>
+  </a>
+  <a href="https://github.com/Abhishekkuntare/arlo-os">
+    <img src="https://img.shields.io/badge/💻_View-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="ARLO OS Repository"/>
+  </a>
 </p>
+
+**Core technologies:** `Electron` `React` `TypeScript` `JavaScript` `CSS` `AI APIs`
+
+**What I'm working on:**
+
+- 🖥️ A macOS-inspired desktop experience for Windows.
+- ✨ Modern glassmorphism, polished interfaces, and smooth animations.
+- 🪟 Interactive windows, desktop icons, Dock, workspaces, and multitasking.
+- 🤖 **Ghost AI** — an AI assistant designed to make desktop workflows more useful.
+- 🎨 Customization, themes, desktop widgets, and interactive UI components.
+- ⚡ Responsive interactions, performance improvements, and application stability.
+- 📦 Windows application packaging and distribution.
+
+My goal is to combine thoughtful design, practical functionality, and AI into a desktop experience that feels intuitive and enjoyable to use.
+
+> Building ARLO OS is my journey in exploring desktop software engineering, product design, AI integration, and the complete development lifecycle.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer with 2+ years of professional experience** building scalable, responsive, and user-focused web applications.
+- 💻 Software Developer with **2+ years of professional experience**.
+- ⚛️ Focused on React.js, Next.js, TypeScript, and modern frontend engineering.
+- 🔧 Experienced in building full-stack applications and integrating REST APIs.
+- 🤖 Exploring generative AI, LLM integrations, RAG, embeddings, and vector search.
+- 🖥️ Building ARLO OS with Electron, React, TypeScript, and AI capabilities.
+- 🚀 Interested in application performance, scalable architecture, and exceptional UI/UX.
+- 🌱 Continuously learning by building real-world products and experimenting with new technologies.
 
-My core strength is turning ideas into **real, production-ready applications** using modern frontend and backend technologies.
-
-* 💻 Building with **React.js, Next.js, TypeScript & Node.js**
-* ⚙️ Developing **REST APIs & full-stack MERN applications**
-* 🤖 Exploring and integrating **AI APIs, RAG, embeddings & vector search**
-* 🗄️ Working with **MongoDB, Firebase & SQL**
-* 🚀 Deploying applications with **Vercel, Netlify & Render**
-* 🎨 Passionate about clean UI, performance and interactive experiences
-* 🧠 Always learning, experimenting and building
-
-> **I don't just write code — I build things that solve problems.**
+**My philosophy:** Great software combines engineering, design, performance, and a clear purpose.
 
 ---
 
-## 🔭 What I'm Working On
+## 🌟 Featured Projects
 
-### 🚗 Amba Motors Garage
+### 1. 🖥️ ARLO OS
 
-Currently working on a **full-stack MERN application for Amba Motors Garage**, focused on creating a modern digital experience for an automotive business.
+**An AI-focused desktop environment for Windows.**
 
-**Tech Stack:**
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `Cloudinary`
+- Desktop-style UI and interactive application windows.
+- Dock, desktop customization, themes, and multitasking.
+- Ghost AI assistant concept and AI-powered workflows.
+- Electron-based desktop application development.
+- Focus on animations, usability, and polished visual design.
 
-The project includes:
+**Tech:** `Electron` `React` `TypeScript` `JavaScript` `CSS` `AI APIs`
 
-* 🔐 Secure authentication
-* ⚛️ React-based frontend
-* 🛠️ Node.js + Express backend
-* 🍃 MongoDB database
-* ☁️ Cloudinary image management
-* 🔗 Frontend/backend API integration
-* 📱 Responsive user experience
+🔗 [Website](https://abhishek-operating-system.netlify.app/) · [GitHub Repository](https://github.com/Abhishekkuntare/arlo-os)
 
-🔗 **Project:** https://amba-motors-ten.vercel.app/
----
+### 2. 🌾 KrishiMitra AI
 
-## 🚀 Featured Projects
+**An AI-powered agricultural assistance platform designed to support farmers.**
 
-### 🌾 KrishiMitra AI
+- AI-assisted crop recommendations.
+- Crop disease assistance using image-based workflows.
+- Voice interaction and location-aware features.
+- Support for Indian agricultural use cases and regional languages.
+- AI integrations for more accessible agricultural guidance.
 
-**AI-powered agricultural assistance platform**
+**Tech:** `Next.js` `React` `TypeScript` `Python` `OpenAI API` `Tailwind CSS`
 
-`Next.js` `React` `TypeScript` `Python` `OpenAI API` `RAG` `Embeddings` `Vector Search` `Tailwind CSS`
+🔗 [Live Project](https://krishi-mitra-ai-three.vercel.app/)
 
-* 🤖 AI-powered crop recommendations
-* 🌱 Crop disease assistance
-* 📷 Image-based agricultural assistance
-* 🎙️ Voice interaction
-* 📍 Location-based features
-* 🧠 RAG and vector-search based workflows
-* ⚡ Reusable components and optimized user flows
+### 3. 🚗 Amba Motors Garage
 
-🔗 **Project:** https://krishi-mitra-ai-three.vercel.app/
+**A modern digital platform for an automotive garage business.**
 
----
+- Responsive frontend for desktop and mobile users.
+- Full-stack application architecture.
+- REST API integration between frontend and backend.
+- MongoDB-based data management.
+- Cloudinary integration for image and media management.
+- Authentication and business-focused functionality.
 
-### 🚗 Amba Motors Garage
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `Cloudinary`
 
-**Full-stack automotive garage management & web platform**
+🔗 [Live Project](https://amba-motors-ten.vercel.app/)
 
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `Cloudinary`
+### 4. ⌨️ Clacko
 
-* 🔐 Authentication system
-* 🔗 Full frontend-backend integration
-* 🍃 MongoDB-powered data management
-* ☁️ Cloudinary media management
-* 📱 Responsive interface
-* ⚙️ RESTful backend architecture
+**A modern typing speed and accuracy platform.**
 
----
+- Real-time words-per-minute tracking.
+- Typing accuracy and error tracking.
+- Multiple typing tests and timer modes.
+- Custom themes and typing animations.
+- Particle effects and interactive user interface.
+- Keyboard-first experience with responsive layouts.
 
-### ⌨️ Clacko
-
-**Typing Speed & Accuracy Platform**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Lucide React` `Vercel`
-
-* ⚡ Real-time WPM tracking
-* 🎯 Accuracy and error tracking
-* ⏱️ Multiple timer/test modes
-* 🎨 Custom themes and typing animations
-* ✨ Particle effects
-* 📊 Profile and history panels
-* ⌨️ Keyboard-first user experience
-* 📱 Fully responsive interface
-
----
-
-## 🧠 Currently Learning
-
-I'm continuously expanding my skills in:
-
-```text
-AI Engineering
-├── Generative AI
-├── LLM APIs
-├── RAG
-├── Embeddings
-├── Vector Search
-└── AI-powered Applications
-```
+**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Lucide React`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,mysql" alt="JavaScript, TypeScript, Python, C++, MySQL"/>
 </p>
 
-### 🎨 Frontend
+### Frontend Development
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,sass,tailwind,bootstrap" alt="Frontend technologies"/>
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" alt="Backend technologies"/>
 </p>
 
-### 🗄️ Databases & Cloud
+- RESTful API development and integration
+- Frontend/backend communication
+- Authentication and application architecture
+- Third-party API integration
+
+### Databases & Cloud
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel,netlify" alt="Databases and cloud platforms"/>
 </p>
 
-### 🤖 AI & Integrations
+### AI & Integrations
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-### 🔧 Tools & Deployment
+- LLM API integration
+- Generative AI applications
+- Retrieval-Augmented Generation (RAG)
+- Embeddings and vector search fundamentals
+- AI-powered workflows and automation
+
+### Desktop Development
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Electron-Desktop_Apps-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://img.shields.io/badge/React-UI_Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-Type_Safety-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,npm" alt="Developer tools"/>
 </p>
 
 ---
@@ -198,74 +197,92 @@ AI Engineering
 
 ### Software Developer — Videoit.io
 
-**Jun 2024 – Present | Bengaluru, India**
+**June 2024 – Present | Bengaluru, India**
 
-* Built scalable and reusable React.js + Redux components for Stories, Banners and Video Gallery features.
-* Improved application performance by reducing API bottlenecks and implementing lazy loading.
-* Achieved **40%+ faster page loads** through frontend optimization.
-* Integrated Shopify backend services with custom frontend applications using REST APIs.
-* Built responsive interfaces using SCSS and JavaScript.
+- Developed reusable React.js and Redux components for Stories, Banners, and Video Gallery features.
+- Improved application performance through lazy loading and API bottleneck reduction.
+- Achieved 40%+ faster page loads through frontend optimization.
+- Integrated Shopify backend services with custom frontend applications using REST APIs.
+- Built responsive interfaces using JavaScript and SCSS.
 
 ### React.js Development Intern — Fitness Fuel 360
 
-**Oct 2021 – Dec 2021 | Navi Mumbai, India**
+**October 2021 – December 2021 | Navi Mumbai, India**
 
-* Developed interactive React.js components using Material UI.
-* Improved mobile responsiveness and reduced page load time.
-* Integrated REST APIs for efficient frontend-backend communication.
+- Developed interactive React.js components using Material UI.
+- Improved mobile responsiveness and frontend usability.
+- Integrated REST APIs for frontend/backend communication.
 
 ### Web Development Intern — Edsquare Ventures
 
-**Jan 2022 – Mar 2022 | Mumbai, India**
+**January 2022 – March 2022 | Mumbai, India**
 
-* Developed component-based interfaces using React.js and Redux.
-* Implemented global state management.
-* Optimized application performance and user experience.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkuntare&show_icons=true&locale=en&rank_icon=github" alt="Abhishek's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkuntare&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkuntare" alt="GitHub Streak" />
-</p>
+- Developed component-based interfaces using React.js and Redux.
+- Implemented global state management.
+- Improved application usability and frontend performance.
 
 ---
 
-## 🏆 GitHub Achievements
+## 🧠 Currently Exploring
+
+```text
+Modern Software Engineering
+├── Frontend Architecture
+│   ├── React & Next.js
+│   ├── TypeScript
+│   └── Performance Optimization
+├── Full-Stack Development
+│   ├── Node.js & Express
+│   ├── REST APIs
+│   └── Databases
+├── AI Engineering
+│   ├── LLM Integrations
+│   ├── RAG & Embeddings
+│   └── AI Agents & Automation
+└── Desktop Development
+    ├── Electron
+    ├── OS-style UI & Interactions
+    └── ARLO OS & Ghost AI
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkuntare&theme=algolia&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhishekkuntare&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Abhishek's GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkuntare&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkuntare&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkuntare&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://abhishekkuntare.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-abhishekkuntare.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://abhishek-os-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/abhishek-kuntare-65662421b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kuntare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abhishekkuntare7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-abhishekkuntare7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://instagram.com/abhishekkuntare">
-    <img src="https://img.shields.io/badge/Instagram-abhishekkuntare-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/Abhishekkuntare">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
+  <a href="https://instagram.com/abhishekkuntare">Instagram</a> •
   <a href="https://codepen.io/abhishekkuntare">CodePen</a> •
   <a href="https://dev.to/abhishekkuntare">Dev.to</a> •
   <a href="https://hashnode.com/@abhishekkuntare">Hashnode</a> •
@@ -275,23 +292,10 @@ AI Engineering
 
 ---
 
-## ☕ Support My Work
-
-If you like my projects, consider supporting me with a coffee ☕
-It helps me keep building, experimenting and learning.
-
-<p>
-  <a href="https://www.buymeacoffee.com/abhishek02">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
+<p align="center">
+  <b>💡 Think. Build. Experiment. Improve.</b>
 </p>
 
----
-
-<h3 align="center">
-  💻 Build. Learn. Break. Fix. Repeat. 🚀
-</h3>
-
 <p align="center">
-  <i>Turning ideas into applications, one commit at a time.</i>
+  Building useful software, exploring new ideas, and turning concepts into real products — one commit at a time. 🚀
 </p>
